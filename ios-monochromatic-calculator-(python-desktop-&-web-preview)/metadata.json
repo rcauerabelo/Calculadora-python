@@ -1,0 +1,6 @@
+{
+  "name": "iOS Monochromatic Calculator (Python Desktop & Web Preview)",
+  "description": "Calculadora estilo iOS minimalista em tons de cinza, branco e preto. 3 modos: Simples, Científica e Conversor de Unidades. Arquitetura MVC em Python e preview interativo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
